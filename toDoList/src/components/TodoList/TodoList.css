@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+}
+.list button {
+  margin-left: 10px;
+  color: green;
+  cursor: pointer;
+  font-weight: bold;
+}
+.title {
+  text-align: center;
+}
